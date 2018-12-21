@@ -6,8 +6,8 @@
 * 2/https://github.com/skydark/nstools
 
 ## 1.1 简体转繁体 
-样例  test/test_simple2tradition.py
+测试用例  test/test_simple2tradition.py
 
 ## 1.2 繁体转简体
-样例  test/test_tradition2simple.py
+测试用例  test/test_tradition2simple.py
 
