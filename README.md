@@ -5,9 +5,9 @@
 * 1/https://github.com/zhiyulee-RUC/CTools
 * 2/https://github.com/skydark/nstools
 
-## 1.1： 繁体转简体 
+## 1.1 繁体转简体 
 样例  test/test_simple2tradition.py
 
-## 1.2： 简体转繁体
+## 1.2 简体转繁体
 样例  test/test_tradition2simple.py
 
