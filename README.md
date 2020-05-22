@@ -11,3 +11,7 @@
 ## 1.2 繁体转简体
 测试用例  test/test_tradition2simple.py
 
+
+# 2、中文转阿拉伯数字
+[https://github.com/Wall-ee/chinese2digits](https://github.com/Wall-ee/chinese2digits)
+
