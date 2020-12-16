@@ -4,7 +4,7 @@ NLPToollet
 
 * gb2312汉字集合，见：data/gb2312.txt
 
-## NLP 基础数据相关
+## NLP tools
 
 1.字体转换
 参见:
